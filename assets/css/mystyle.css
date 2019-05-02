@@ -1,0 +1,14 @@
+.headshot{
+  height: 20rem;
+  border-radius: 0;
+  margin: 0 auto;
+  }
+.stream{
+  height: 10em;
+}
+.cover{
+  height: 18rem;
+}
+form{
+  background-color: black;
+}
